@@ -32,15 +32,25 @@
 
 [webpack入坑之旅（六）配合vue-router实现SPA](http://blog.guowenfh.com/2016/03/28/vue-webpack-06-router/)
 
+[webpack使用优化](http://www.tuicool.com/articles/bAzMju)
+
+[手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604)
+
 #### fullPage
 
 [jQuery全屏滚动插件fullPage.js](http://www.dowebok.com/77.html)
 
 [FullPage.js全屏滚动插件学习总结](http://www.mamicode.com/info-detail-1117912.html)
 
-#### 大神博客
+#### 优秀文章
+
+[延迟加载(Lazyload)三种实现方式](https://zhuanlan.zhihu.com/p/25455672)
+
+#### 博客
 
 [张鑫旭博客](http://www.zhangxinxu.com/)
 
 [三省吾身丶丶](http://blog.guowenfh.com/)
+
+[阮一峰](http://www.ruanyifeng.com/home.html)
 
