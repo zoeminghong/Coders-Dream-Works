@@ -8,7 +8,17 @@
 
 [Spring Cloud构建微服务架构（四）分布式配置中心](https://zhuanlan.zhihu.com/p/25346353)
 
-[Spring Cloud构建微服务架构（四）分布式配置中心（续）](https://zhuanlan.zhihu.com/p/25346353)
+[Spring Cloud构建微服务架构（四）分布式配置中心（续）](https://zhuanlan.zhihu.com/p/25607918)
+
+[Spring Cloud构建微服务架构（五）服务网关](http://blog.didispace.com/springcloud5/)
+
+[Spring Cloud构建微服务架构（六）高可用服务注册中心](http://blog.didispace.com/springcloud6/)
+
+[Spring Cloud构建微服务架构（七）消息总线](http://blog.didispace.com/springcloud7/)
+
+[Spring Cloud构建微服务架构（七）消息总线（续：Kafka）](http://blog.didispace.com/springcloud7-2/)
+
+[使用Spring Cloud与Docker实战微服务](https://eacdy.gitbooks.io/spring-cloud-book/content/)
 
 #### 技术栈
 
@@ -24,5 +34,12 @@
 
 #### 博客
 
+[SpringCloud中国社区](http://bbs.springcloud.cn/)
+
 [ImportNew](http://www.importnew.com/)
 
+#### 优秀项目
+
+[SpringBoot&&Cloud](https://git.oschina.net/didispace/SpringBoot-Learning)
+
+> SpringBoot和SpringCloud学习
