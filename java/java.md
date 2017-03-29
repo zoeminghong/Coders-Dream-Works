@@ -32,6 +32,8 @@
 
 [深入理解Java：内部类](http://www.cnblogs.com/ITtangtang/p/3980460.html)
 
+[深入理解分布式事务](http://www.cnblogs.com/leetieniu2014/p/5639528.html)
+
 #### 博客
 
 [SpringCloud中国社区](http://bbs.springcloud.cn/)
