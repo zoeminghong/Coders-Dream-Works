@@ -34,6 +34,12 @@
 
 [深入理解分布式事务](http://www.cnblogs.com/leetieniu2014/p/5639528.html)
 
+[微服务（Microservice）那点事](https://segmentfault.com/p/1210000009090743/read)
+
+[数据库读写分离和负载均衡策略](http://blog.csdn.net/seudongnan/article/details/57405969)
+
+[ Mysql主从Java端实现](http://blog.csdn.net/andong154564667/article/details/52116818)
+
 #### 博客
 
 [SpringCloud中国社区](http://bbs.springcloud.cn/)

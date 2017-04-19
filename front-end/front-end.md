@@ -50,6 +50,16 @@
 
 [Vue中router-link介绍](http://blog.csdn.net/tanga842428/article/details/53052970)
 
+[前端基础进阶（十三）：透彻掌握Promise的使用，读这篇就够了](http://www.jianshu.com/p/fe5f173276bd)
+
+[你不知道的 XMLHttpRequest](https://segmentfault.com/a/1190000008950789)
+
+[请练完这16个webpack小例子](https://segmentfault.com/a/1190000009038067)
+
+[手把手教你封装一个vue component](https://segmentfault.com/a/1190000009090836)
+
+[入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
+
 #### 博客
 
 [张鑫旭博客](http://www.zhangxinxu.com/)
