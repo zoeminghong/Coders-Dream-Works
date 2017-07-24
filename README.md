@@ -1,4 +1,4 @@
-![mit](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/mit.svg)
+![mit](./mit.svg)
 
 成为大家IT行业优文的**收藏夹**
 
@@ -8,7 +8,7 @@
 
 ### [收藏夹](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/bookmark.md)
 
-
+### [BUG聚集区](https://github.com/zoeminghong/Coders-Dream-Works/issues)
 
 
 新浪微博：[@迹_Jason](http://weibo.com/jasongoo123)
