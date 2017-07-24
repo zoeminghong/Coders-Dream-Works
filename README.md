@@ -1,4 +1,4 @@
-![mit](/Users/gjason/Documents/Coder-Dream-Wokers/mit.svg)
+![mit](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/mit.svg)
 
 成为大家IT行业优文的**收藏夹**
 
@@ -6,7 +6,7 @@
 
 还有就是为了成为一个优秀文章的收藏地，有空的时候翻出来看看，应该也会收获很多，比如：公交车上、睡前、等朋友。
 
-收藏夹
+### [收藏夹](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/bookmark.md)
 
 
 
