@@ -10,6 +10,8 @@
 
 ### [BUG聚集区](https://github.com/zoeminghong/Coders-Dream-Works/issues)
 
+### [WIKI](https://github.com/zoeminghong/Coders-Dream-Works/wiki)
+
 
 新浪微博：[@迹_Jason](http://weibo.com/jasongoo123)
 
