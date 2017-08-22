@@ -12,6 +12,8 @@
 
 ### [WIKI](https://github.com/zoeminghong/Coders-Dream-Works/wiki)
 
+[问题解决方案](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/reslove_method.md)
+
 
 新浪微博：[@迹_Jason](http://weibo.com/jasongoo123)
 
