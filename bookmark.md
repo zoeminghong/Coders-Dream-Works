@@ -72,6 +72,8 @@
 
 [Springboot最全配置文件](http://blog.poolye.com/Article/c4c33049-65e5-9859-c8bf-c5dd8cd00880.html)
 
+[Springboot 入门](http://www.vxzsk.com/251.html)
+
 #### Spring Cloud
 
 [Spring Cloud构建微服务架构（一）服务注册与发现](https://zhuanlan.zhihu.com/p/25141622)
