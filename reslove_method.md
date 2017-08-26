@@ -23,6 +23,12 @@ MiniDao 是一款超级轻量的JAVA持久层框架，具备Mybatis一样的标�
 
 [参考文章](http://blog.csdn.net/jsshaojinjie/article/details/52129740)
 
+### 数据库连接池
+
+##### Druid
+
+##### HiKariCP
+
 ### Web测试工具
 
 #### 单元测试
@@ -57,44 +63,48 @@ SuperTest
 
 ### 可持久DB
 
-#### RocksDB 
+##### RocksDB 
 
 RocksDB 是一个来自 Facebook 的可嵌入式的支持持久化的 key-value 存储系统，也可作为 C/S 模式下的存储数据库，但主要目的还是嵌入式。RocksDB 基于 LevelDB 构建。
 
-#### Ceph
+##### Ceph
 
 分布式存储系统
 
+##### Hazelcast
+
+缓存数据库、以SQL的方式获取数据、分布式、key-value、内存数据库
+
 ### 分布式系统监视
 
-#### Zabbix
+##### Zabbix
 
 Zabbix 是一个基于 Web 界面的提供分布式系统监视以及网络监视功能的企业级的开源解决方案。
 
 ### 调用框架
 
-#### Aibton-framework
+##### Aibton-framework
 
 基于 Spring 的统一 API 调用框架，规范开发，让项目更好维护，代码复用率更高。集成了基础开发工具类，编码更简单。基本上零配置，直接使用，与 Spring 搭配更简单哦。
 
 ### 微服务框架
 
-#### jboot
+##### jboot
 
 Java微服务框架
 
-#### Spring boot
+##### Spring boot
 
 Java微服务框架
 
 ### 文档工具
 
-#### ShowDoc
+##### ShowDoc
 
 ### 可视化系统开发工具集 
 
-#### X-Series
+##### X-Series
 
 #### 在线代码编辑器
 
-#### CodeMirror
+##### CodeMirror
