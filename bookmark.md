@@ -126,6 +126,10 @@
 
 [Java8_Stream](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/index.html)
 
+[Dubbo 博客](http://blog.csdn.net/u010311445/article/category/2745121)
+
+[ Spring缓存注解@Cache,@CachePut , @CacheEvict，@CacheConfig使用](http://blog.csdn.net/sanjay_f/article/details/47372967)
+
 #### 博客社区
 
 [SpringCloud中国社区](http://bbs.springcloud.cn/)
@@ -133,6 +137,44 @@
 [ImportNew](http://www.importnew.com/)
 
 [Spring Boot系列文章](http://www.ityouknow.com/)
+
+[微服务等架构分享](http://www.jiagoushuo.com/)
+
+[阿里巴巴中间价团队博客](http://jm.taobao.org/ )
+
+[掘金高质量技术社区](https://gold.xitu.io/ )
+
+[热链 it资讯，聚合](http://itindex.net/relian/ )
+
+ [技术公众号聚合](http://www.10tiao.com/)
+
+[csdn 极客头条技术](http://geek.csdn.net/)
+
+[阿里巴巴技术沙龙](http://club.alibabatech.org/)
+
+[https://wanqu.co/](https://wanqu.co/)
+
+ [唯品会技术大牛](http://calvin1978.blogcn.com/)
+
+[小米程序员（小米发展里程技术）](http://2014.54chen.com/blog/archives/)
+
+ [java jvm技术等](http://it.deepinmind.com/)
+
+[微信聚合，学习.工具栏目](http://chuansong.me/)
+
+ [美团技术博客，大批量订单相关](http://tech.meituan.com/)
+
+[ibm中国java，高质量博客](http://www.ibm.com/developerworks/cn/java/)
+
+[张开涛博客，spring等京东技术](http://jinnianshilongnian.iteye.com/ )
+
+[阿里mysql技术专家](http://hedengcheng.com/)
+
+[阿里数据库内核月报](http://mysql.taobao.org/monthly/ )
+
+[计算机书籍经典实战系列和动物书](http://www.salttiger.com/)
+
+ [黑客大会资料](http://kcon.knownsec.com/papers#kcon_2015)
 
 #### 优秀项目
 
