@@ -130,6 +130,10 @@
 
 [ Spring缓存注解@Cache,@CachePut , @CacheEvict，@CacheConfig使用](http://blog.csdn.net/sanjay_f/article/details/47372967)
 
+### 大数据
+
+[大数据入门](http://gudaoxuri.github.io/bd-lab/)
+
 #### 博客社区
 
 [SpringCloud中国社区](http://bbs.springcloud.cn/)
@@ -183,3 +187,5 @@
 > SpringBoot和SpringCloud学习
 
 [go-library](https://github.com/zoeminghong/go-library)
+
+[30分钟入门](https://github.com/qinjx/30min_guides)
