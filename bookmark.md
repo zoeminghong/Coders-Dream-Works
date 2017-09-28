@@ -8,6 +8,10 @@
 
 [前端基础进阶（十三）：透彻掌握Promise的使用，读这篇就够了](http://www.jianshu.com/p/fe5f173276bd)
 
+##### Node
+
+[NodeJS入门](https://github.com/nswbmw/N-blog)
+
 ##### Webpack
 
 [Webpack傻瓜式指南（一）](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine)
@@ -104,6 +108,8 @@
 
 [Springboot 入门](http://www.vxzsk.com/251.html)
 
+[Spring-Boot-Reference-Guide中文](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
+
 ##### Spring Cloud
 
 [Spring Cloud构建微服务架构（一）服务注册与发现](https://zhuanlan.zhihu.com/p/25141622)
@@ -143,6 +149,8 @@
 [ Mysql主从Java端实现](http://blog.csdn.net/andong154564667/article/details/52116818)
 
 [H2数据库函数及数据类型概述](http://blog.csdn.net/chszs/article/details/43269771)
+
+[MySQL入门教程](https://github.com/jaywcjlove/mysql-tutorial)
 
 ### 大数据
 
@@ -209,3 +217,11 @@
 [go-library](https://github.com/zoeminghong/go-library)
 
 [30分钟入门](https://github.com/qinjx/30min_guides)
+
+[hsweb](https://github.com/hs-web/hsweb-framework)
+
+> 一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:通用增删改查，在线代码生成，权限管理(可控制到列和行)，动态多数据源分布式事务，动态脚本，动态定时任务，在线数据库维护等等. 基于 spring-boot,mybaits 
+
+[handbook](https://github.com/jaywcjlove/handbook)
+
+> 放置我的笔记、搜集、摘录、实践，保持好奇心。这里就是个随记，涉猎技术知识点广而不精，不能保证正确，看文需谨慎，后果很严重。
