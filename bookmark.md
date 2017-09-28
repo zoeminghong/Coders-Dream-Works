@@ -1,10 +1,14 @@
-#### ES6
+#### 前端
+
+##### ES6
 
 [ES6 核心特性](http://www.zcfy.cc/article/core-es6-features-2267.html)
 
 [ES6在WebStrom中的相关配置](https://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/)
 
-#### Webpack
+[前端基础进阶（十三）：透彻掌握Promise的使用，读这篇就够了](http://www.jianshu.com/p/fe5f173276bd)
+
+##### Webpack
 
 [Webpack傻瓜式指南（一）](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine)
 
@@ -38,13 +42,15 @@
 
 [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
 
-#### fullPage
+[请练完这16个webpack小例子](https://segmentfault.com/a/1190000009038067)
+
+##### fullPage
 
 [jQuery全屏滚动插件fullPage.js](http://www.dowebok.com/77.html)
 
 [FullPage.js全屏滚动插件学习总结](http://www.mamicode.com/info-detail-1117912.html)
 
-#### 优秀文章
+##### vue
 
 [延迟加载(Lazyload)三种实现方式](https://zhuanlan.zhihu.com/p/25455672)
 
@@ -52,19 +58,43 @@
 
 [Vue中router-link介绍](http://blog.csdn.net/tanga842428/article/details/53052970)
 
-[前端基础进阶（十三）：透彻掌握Promise的使用，读这篇就够了](http://www.jianshu.com/p/fe5f173276bd)
+[手把手教你封装一个vue component](https://segmentfault.com/a/1190000009090836)
+
+##### 其他
 
 [你不知道的 XMLHttpRequest](https://segmentfault.com/a/1190000008950789)
 
-[请练完这16个webpack小例子](https://segmentfault.com/a/1190000009038067)
+#### JAVA
 
-[手把手教你封装一个vue component](https://segmentfault.com/a/1190000009090836)
+##### JDK
 
-#### Spring
+[Java8_Stream](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/index.html)
+
+[10种简单的Java性能优化](http://www.importnew.com/16181.html)
+
+[Java中Exception的种类](http://blog.csdn.net/jubincn/article/details/9127663)
+
+[谁在关心toString的性能？](http://www.importnew.com/16382.html)
+
+[深入理解Java：内部类](http://www.cnblogs.com/ITtangtang/p/3980460.html)
+
+[《深入理解Java集合框架》系列文章（已全部更新完毕）](https://zhuanlan.zhihu.com/p/24687801?refer=dreawer)
+
+##### SpringframeWork
+
+[ Spring缓存注解@Cache,@CachePut , @CacheEvict，@CacheConfig使用](http://blog.csdn.net/sanjay_f/article/details/47372967)
+
+[深入理解分布式事务](http://www.cnblogs.com/leetieniu2014/p/5639528.html)
 
 [springMVC中文文档](https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/publish/21-4/1-intercepting-requests-with-a-handler-interceptor.html)
 
-#### Spring Boot
+##### 微服务
+
+[微服务（Microservice）那点事](https://segmentfault.com/p/1210000009090743/read)
+
+[Dubbo 博客](http://blog.csdn.net/u010311445/article/category/2745121)
+
+##### Spring Boot
 
 [[Spring Boot 系列] 集成maven和Spring boot的profile 专题](http://www.cnblogs.com/softidea/p/6063629.html)
 
@@ -74,7 +104,7 @@
 
 [Springboot 入门](http://www.vxzsk.com/251.html)
 
-#### Spring Cloud
+##### Spring Cloud
 
 [Spring Cloud构建微服务架构（一）服务注册与发现](https://zhuanlan.zhihu.com/p/25141622)
 
@@ -100,39 +130,27 @@
 
 [spring cloud config 详解](http://www.cnblogs.com/zhangjianbin/p/6322476.html)
 
-#### JAVA
-
-[《深入理解Java集合框架》系列文章（已全部更新完毕）](https://zhuanlan.zhihu.com/p/24687801?refer=dreawer)
-
-[谁在关心toString的性能？](http://www.importnew.com/16382.html)
-
-[10种简单的Java性能优化](http://www.importnew.com/16181.html)
-
-[Java中Exception的种类](http://blog.csdn.net/jubincn/article/details/9127663)
-
-[深入理解Java：内部类](http://www.cnblogs.com/ITtangtang/p/3980460.html)
-
-[深入理解分布式事务](http://www.cnblogs.com/leetieniu2014/p/5639528.html)
-
-[微服务（Microservice）那点事](https://segmentfault.com/p/1210000009090743/read)
-
-[数据库读写分离和负载均衡策略](http://blog.csdn.net/seudongnan/article/details/57405969)
-
-[ Mysql主从Java端实现](http://blog.csdn.net/andong154564667/article/details/52116818)
+##### 其他
 
 [OAuth 2.0 认证的原理与实践](http://www.importnew.com/24344.html)
 
 [优秀程序员不得不知道的20个位运算技巧](http://blog.csdn.net/zmazon/article/details/8262185)
 
-[Java8_Stream](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/index.html)
+#### 数据库
 
-[Dubbo 博客](http://blog.csdn.net/u010311445/article/category/2745121)
+[数据库读写分离和负载均衡策略](http://blog.csdn.net/seudongnan/article/details/57405969)
 
-[ Spring缓存注解@Cache,@CachePut , @CacheEvict，@CacheConfig使用](http://blog.csdn.net/sanjay_f/article/details/47372967)
+[ Mysql主从Java端实现](http://blog.csdn.net/andong154564667/article/details/52116818)
+
+[H2数据库函数及数据类型概述](http://blog.csdn.net/chszs/article/details/43269771)
 
 ### 大数据
 
 [大数据入门](http://gudaoxuri.github.io/bd-lab/)
+
+#### 机器学习
+
+[吴恩达斯坦福机器学习](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 #### 博客社区
 
@@ -158,7 +176,7 @@
 
 [https://wanqu.co/](https://wanqu.co/)
 
- [唯品会技术大牛](http://calvin1978.blogcn.com/)
+[唯品会技术大牛](http://calvin1978.blogcn.com/)
 
 [小米程序员（小米发展里程技术）](http://2014.54chen.com/blog/archives/)
 
@@ -166,7 +184,7 @@
 
 [微信聚合，学习.工具栏目](http://chuansong.me/)
 
- [美团技术博客，大批量订单相关](http://tech.meituan.com/)
+[美团技术博客，大批量订单相关](http://tech.meituan.com/)
 
 [ibm中国java，高质量博客](http://www.ibm.com/developerworks/cn/java/)
 
@@ -178,7 +196,9 @@
 
 [计算机书籍经典实战系列和动物书](http://www.salttiger.com/)
 
- [黑客大会资料](http://kcon.knownsec.com/papers#kcon_2015)
+[黑客大会资料](http://kcon.knownsec.com/papers#kcon_2015)
+
+[纯洁的微笑](http://www.ityouknow.com/spring-cloud)
 
 #### 优秀项目
 
