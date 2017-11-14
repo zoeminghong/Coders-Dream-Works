@@ -84,6 +84,8 @@
 
 [《深入理解Java集合框架》系列文章（已全部更新完毕）](https://zhuanlan.zhihu.com/p/24687801?refer=dreawer)
 
+[原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html)
+
 ##### SpringframeWork
 
 [ Spring缓存注解@Cache,@CachePut , @CacheEvict，@CacheConfig使用](http://blog.csdn.net/sanjay_f/article/details/47372967)
@@ -135,6 +137,10 @@
 [史上最简单的SpringCloud教程: docker部署spring cloud项目](https://zhuanlan.zhihu.com/p/27454569?group_id=860084820255072256)
 
 [spring cloud config 详解](http://www.cnblogs.com/zhangjianbin/p/6322476.html)
+
+##### Mybatis
+
+[SpringBoot 快速整合Mybatis（去XML化+注解进阶）](https://zhuanlan.zhihu.com/p/31015559?group_id=913708331588947968)
 
 ##### 其他
 

@@ -23,6 +23,26 @@ MiniDao 是一款超级轻量的JAVA持久层框架，具备Mybatis一样的标�
 
 [参考文章](http://blog.csdn.net/jsshaojinjie/article/details/52129740)
 
+### 分库分表
+
+#### sharding-jdbc
+
+Sharding-JDBC是一个开源的分布式数据库中间件，它无需额外部署和依赖，旧代码迁移成本几乎为零。Sharding-JDBC作为面向开发的微服务云原生基础类库，完整的实现了分库分表、读写分离和分布式主键功能，并初步实现了柔性事务。
+
+[优点](http://shardingjdbc.io/index_zh.html)：
+
+- 分库分表、读写分离（主从）
+- TCC事务
+- 分布式主键（以时间序列）
+- 可适用于任何基于java的ORM框架、连接池
+- 目前支持MySQL，Oracle，SQLServer和PostgreSQL
+
+![](/var/folders/jq/xmm7f3ds2ql5h2k85hz904rh0000gn/T/ro.nextwave.Snappy/ro.nextwave.Snappy/64BA05E9-921F-4C94-B07C-6A093E8994F6.png)
+
+[GitHub](https://github.com/shardingjdbc)
+
+[infoq](http://www.infoq.com/cn/news/2016/01/sharding-jdbc-dangdang)
+
 ### 数据库连接池
 
 ##### Druid
