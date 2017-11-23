@@ -127,6 +127,8 @@ Java微服务框架
 
 ##### ShowDoc
 
+##### [mybatis生成工具](https://github.com/zouzg/mybatis-generator-gui)
+
 ### 可视化系统开发工具集 
 
 ##### X-Series
