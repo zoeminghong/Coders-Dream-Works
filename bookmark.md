@@ -1,6 +1,8 @@
-#### 前端
+[TOC]
 
-##### ES6
+### 前端
+
+#### ES6
 
 [ES6 核心特性](http://www.zcfy.cc/article/core-es6-features-2267.html)
 
@@ -8,11 +10,11 @@
 
 [前端基础进阶（十三）：透彻掌握Promise的使用，读这篇就够了](http://www.jianshu.com/p/fe5f173276bd)
 
-##### Node
+#### Node
 
 [NodeJS入门](https://github.com/nswbmw/N-blog)
 
-##### Webpack
+#### Webpack
 
 [Webpack傻瓜式指南（一）](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine)
 
@@ -48,13 +50,13 @@
 
 [请练完这16个webpack小例子](https://segmentfault.com/a/1190000009038067)
 
-##### fullPage
+#### fullPage
 
 [jQuery全屏滚动插件fullPage.js](http://www.dowebok.com/77.html)
 
 [FullPage.js全屏滚动插件学习总结](http://www.mamicode.com/info-detail-1117912.html)
 
-##### vue
+#### vue
 
 [延迟加载(Lazyload)三种实现方式](https://zhuanlan.zhihu.com/p/25455672)
 
@@ -64,13 +66,13 @@
 
 [手把手教你封装一个vue component](https://segmentfault.com/a/1190000009090836)
 
-##### 其他
+#### 其他
 
 [你不知道的 XMLHttpRequest](https://segmentfault.com/a/1190000008950789)
 
-#### JAVA
+### JAVA
 
-##### JDK
+#### JDK
 
 [Java8_Stream](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/index.html)
 
@@ -86,7 +88,7 @@
 
 [原码, 反码, 补码 详解](https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html)
 
-##### SpringframeWork
+#### SpringframeWork
 
 [ Spring缓存注解@Cache,@CachePut , @CacheEvict，@CacheConfig使用](http://blog.csdn.net/sanjay_f/article/details/47372967)
 
@@ -94,13 +96,13 @@
 
 [springMVC中文文档](https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/publish/21-4/1-intercepting-requests-with-a-handler-interceptor.html)
 
-##### 微服务
+#### 微服务
 
 [微服务（Microservice）那点事](https://segmentfault.com/p/1210000009090743/read)
 
 [Dubbo 博客](http://blog.csdn.net/u010311445/article/category/2745121)
 
-##### Spring Boot
+#### Spring Boot
 
 [[Spring Boot 系列] 集成maven和Spring boot的profile 专题](http://www.cnblogs.com/softidea/p/6063629.html)
 
@@ -112,7 +114,7 @@
 
 [Spring-Boot-Reference-Guide中文](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 
-##### Spring Cloud
+#### Spring Cloud
 
 [Spring Cloud构建微服务架构（一）服务注册与发现](https://zhuanlan.zhihu.com/p/25141622)
 
@@ -138,17 +140,17 @@
 
 [spring cloud config 详解](http://www.cnblogs.com/zhangjianbin/p/6322476.html)
 
-##### Mybatis
+#### Mybatis
 
 [SpringBoot 快速整合Mybatis（去XML化+注解进阶）](https://zhuanlan.zhihu.com/p/31015559?group_id=913708331588947968)
 
-##### 其他
+#### 其他
 
 [OAuth 2.0 认证的原理与实践](http://www.importnew.com/24344.html)
 
 [优秀程序员不得不知道的20个位运算技巧](http://blog.csdn.net/zmazon/article/details/8262185)
 
-#### 数据库
+### 数据库
 
 [数据库读写分离和负载均衡策略](http://blog.csdn.net/seudongnan/article/details/57405969)
 
@@ -162,11 +164,11 @@
 
 [大数据入门](http://gudaoxuri.github.io/bd-lab/)
 
-#### 机器学习
+### 机器学习
 
 [吴恩达斯坦福机器学习](https://www.coursera.org/learn/machine-learning/home/welcome)
 
-#### 博客社区
+### 博客社区
 
 [SpringCloud中国社区](http://bbs.springcloud.cn/)
 
@@ -214,7 +216,7 @@
 
 [纯洁的微笑](http://www.ityouknow.com/spring-cloud)
 
-#### 优秀项目
+### 优秀项目
 
 [SpringBoot&&Cloud](https://git.oschina.net/didispace/SpringBoot-Learning)
 
