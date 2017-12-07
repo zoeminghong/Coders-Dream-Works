@@ -200,3 +200,15 @@ XGBoost 可以处理回归、分类和排序等多种任务。由于它在预测
 [Kafka Manager使用说明](http://blog.csdn.net/isea533/article/details/73727485)
 
 [Kafka Stream中文文档](http://zqhxuyuan.github.io/2016/11/02/Kafka-Streams-cn/)
+
+## 缺陷管理工具
+
+### JIRA
+
+**功能**
+
+提交代码后，JIRA中相关issue的状态会变为Patch Available。同时，项目机器人会定时扫描是否有Patch Available状态的issue，如果有，它会下载相应的附件，并通过脚本检查格式是否正确、单元测试能否通过，并把结果发回到JIRA。当Patch要合并到某个版本之前，该版本的负责人会重点进行测试，包括功能和性能上的。
+
+**文档**
+
+[JIRA官网](https://www.atlassian.com/software/jira)
