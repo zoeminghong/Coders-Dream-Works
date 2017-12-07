@@ -1,10 +1,12 @@
-### JAVA ORM
+ Table of Contents JAVA ORMMinidaoEBean分库分表sharding-jdbc数据库连接池DruidHiKariCP单元测试集成测试功能测试服务端测试可持久DBRocksDBCephHazelcastInfluxDB分布式系统监视Zabbix调用框架Aibton-framework微服务框架jbootSpring boot文档工具ShowDocmybatis生成工具可视化系统开发工具集X-Series在线代码编辑器CodeMirror代码质量sonarqubeMock工具easy-mock机器学习xgboost大数据Maxwell功能文档常见问题
 
-#### Minidao
+## JAVA ORM
+
+### Minidao
 
 MiniDao 是一款超级轻量的JAVA持久层框架，具备Mybatis一样的标签和SQL灵活性。最大优点：可无缝集成Hibernate项目，支持事务统一管理，有效解决Hibernate项目，实现灵活的SQL分离问题。
 
-#### EBean
+### EBean
 
 - 原始SQL：可方便的使用原始sql，并以懒加载的方式返回全属性的bean。
 - 结果分页：使用findRowCount()或findPageList()很容易处理结果分页。
@@ -23,9 +25,9 @@ MiniDao 是一款超级轻量的JAVA持久层框架，具备Mybatis一样的标�
 
 [参考文章](http://blog.csdn.net/jsshaojinjie/article/details/52129740)
 
-### 分库分表
+## 分库分表
 
-#### sharding-jdbc
+### sharding-jdbc
 
 Sharding-JDBC是一个开源的分布式数据库中间件，它无需额外部署和依赖，旧代码迁移成本几乎为零。Sharding-JDBC作为面向开发的微服务云原生基础类库，完整的实现了分库分表、读写分离和分布式主键功能，并初步实现了柔性事务。
 
@@ -37,21 +39,17 @@ Sharding-JDBC是一个开源的分布式数据库中间件，它无需额外部�
 - 可适用于任何基于java的ORM框架、连接池
 - 目前支持MySQL，Oracle，SQLServer和PostgreSQL
 
-![](/var/folders/jq/xmm7f3ds2ql5h2k85hz904rh0000gn/T/ro.nextwave.Snappy/ro.nextwave.Snappy/64BA05E9-921F-4C94-B07C-6A093E8994F6.png)
-
 [GitHub](https://github.com/shardingjdbc)
 
 [infoq](http://www.infoq.com/cn/news/2016/01/sharding-jdbc-dangdang)
 
-### 数据库连接池
+## 数据库连接池
 
-##### Druid
+### Druid
 
-##### HiKariCP
+### HiKariCP
 
-### Web测试工具
-
-#### 单元测试
+## 单元测试
 
 Jest
 
@@ -61,11 +59,11 @@ Mocha
 
 Karma
 
-#### 集成测试
+## 集成测试
 
 Enzyme
 
-#### 功能测试
+## 功能测试
 
 WebDriverIO
 
@@ -75,86 +73,130 @@ Storybook
 
 Gremlins.js
 
-#### 服务端测试
+## 服务端测试
 
 K6
 
 SuperTest
 
-### 可持久DB
+## 可持久DB
 
-##### RocksDB 
+### RocksDB 
 
 RocksDB 是一个来自 Facebook 的可嵌入式的支持持久化的 key-value 存储系统，也可作为 C/S 模式下的存储数据库，但主要目的还是嵌入式。RocksDB 基于 LevelDB 构建。
 
-##### Ceph
+### Ceph
 
 分布式存储系统
 
-##### Hazelcast
+### Hazelcast
 
 缓存数据库、以SQL的方式获取数据、分布式、key-value、内存数据库
 
-##### InfluxDB
+### InfluxDB
 
 着力于高性能地查询与存储时序型数据。InfluxDB被广泛应用于存储系统的监控数据。
 
 提供了一个类似于SQL的查询语言并且一系列内置函数方便用户进行数据查询
 
-### 分布式系统监视
+## 分布式系统监视
 
-##### Zabbix
+### Zabbix
 
 Zabbix 是一个基于 Web 界面的提供分布式系统监视以及网络监视功能的企业级的开源解决方案。
 
-### 调用框架
+## 调用框架
 
-##### Aibton-framework
+### Aibton-framework
 
 基于 Spring 的统一 API 调用框架，规范开发，让项目更好维护，代码复用率更高。集成了基础开发工具类，编码更简单。基本上零配置，直接使用，与 Spring 搭配更简单哦。
 
-### 微服务框架
+## 微服务框架
 
-##### jboot
-
-Java微服务框架
-
-##### Spring boot
+### jboot
 
 Java微服务框架
 
-### 文档工具
+### Spring boot
 
-##### ShowDoc
+Java微服务框架
 
-##### [mybatis生成工具](https://github.com/zouzg/mybatis-generator-gui)
+## 文档工具
 
-### 可视化系统开发工具集 
+### ShowDoc
 
-##### X-Series
+[mybatis生成工具](https://github.com/zouzg/mybatis-generator-gui)
 
-#### 在线代码编辑器
+## 可视化系统开发工具集 
 
-##### CodeMirror
+### X-Series
 
-### 代码质量
+## 在线代码编辑器
 
-##### sonarqube
+### CodeMirror
+
+## 代码质量
+
+### sonarqube
 
 代码质量工具，具有代码重复率，Bug率，漏洞等检查功能
 
-### Mock工具
+## Mock工具
 
-##### easy-mock
+### easy-mock
 
 大搜车出品的基于前端mock调用数据工具，可以提高前端开发效率
 
-### 机器学习
+## 机器学习
 
-##### xgboost
+### xgboost
 
 分布式梯度增强库，秘诀就在于算法能并行计算、近似建树、对稀疏数据的有效处理以及内存使用优化。
 
 XGBoost 支持在多台机器上进行分布式训练，包括 AWS，GCE，Azure 和 Yarn 集群。可以与 Flink，Spark 和其他云数据流系统集成。
 
 XGBoost 可以处理回归、分类和排序等多种任务。由于它在预测性能上的强大且训练速度快，XGBoost 已屡屡斩获 Kaggle 各大竞赛的冠军宝座。
+
+## 大数据
+
+### Maxwell
+
+**功能**
+
+通过读取Mysql的binlogs，Row更新，将变更信息以Json的形式传递给Kafka, Kinesis, RabbitMQ, Google Cloud Pub/Sub, or Redis
+
+**文档**
+
+[Maxwell官方文档](http://maxwells-daemon.io/quickstart/)
+
+[DEMO](http://www.ywnds.com/?p=10222)
+
+**常见问题**
+
+- $ docker run osheroff/maxwell
+  com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+> mysql无法连接，检查一下mysql连接情况
+
+## 消息中间件
+
+### Kafka
+
+**功能**
+
+是一个分布式消息发布订阅系统，快速、可拓展并且支持持久化的特性。
+
+- 它被设计为一个分布式系统，易于向外扩展；
+- 它同时为发布和订阅提供高吞吐量；
+- 它支持多订阅者，当失败时能自动平衡消费者；
+- 它将消息持久化到磁盘，因此可用于批量消费，例如ETL，以及实时应用程序；
+
+**文档**
+
+[Kafka深度解析](http://www.jasongj.com/2015/01/02/Kafka%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/)
+
+[orchome](http://orchome.com/189)
+
+[Kafka Manager使用说明](http://blog.csdn.net/isea533/article/details/73727485)
+
+[Kafka Stream中文文档](http://zqhxuyuan.github.io/2016/11/02/Kafka-Streams-cn/)
