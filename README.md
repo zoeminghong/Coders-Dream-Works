@@ -6,7 +6,7 @@
 
 还有就是为了成为一个优秀文章的收藏地，有空的时候翻出来看看，应该也会收获很多，比如：公交车上、睡前、等朋友。
 
-### [收藏夹](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/bookmark.md)
+### [收藏夹](http://zoeminghong.github.io/2017/12/14/bookmark/)
 
 ### [BUG面对面](https://github.com/zoeminghong/Coders-Dream-Works/issues)
 
