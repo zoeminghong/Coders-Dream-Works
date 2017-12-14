@@ -8,11 +8,11 @@
 
 ### [收藏夹](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/bookmark.md)
 
-### [BUG聚集区](https://github.com/zoeminghong/Coders-Dream-Works/issues)
+### [BUG面对面](https://github.com/zoeminghong/Coders-Dream-Works/issues)
 
 ### [WIKI](https://github.com/zoeminghong/Coders-Dream-Works/wiki)
 
-[问题解决方案](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/reslove_method.md)
+### [问题解决方案](https://github.com/zoeminghong/Coders-Dream-Works/blob/master/reslove_method.md)
 
 
 新浪微博：[@迹_Jason](http://weibo.com/jasongoo123)
